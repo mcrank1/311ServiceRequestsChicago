@@ -25,4 +25,8 @@ It demonstrates working with **real-world data**, **API integration**, and **dat
 
 ## **References**
 - Chicago Open Data Portal - 311 Service Requests:
-- 
+  https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy/about_data
+- Pandas
+  https://pandas.pydata.org/docs/
+- Python Requests Library
+  https://docs.python-requests.org/
