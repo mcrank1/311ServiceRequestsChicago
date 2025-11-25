@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 #API endpoint for Chicago 311 Service Requests
-API_URL = "https://data.cityofchicago.org/resource/v6vf-nfxy.json?$limit=500"
+API_URL = "URL = "https://data.cityofchicago.org/resource/v6vf-nfxy.json?$order=created_date DESC&$limit=500"
 
 #Fetch data
 response = requests.get(API_URL)
