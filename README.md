@@ -14,3 +14,15 @@ It demonstrates working with **real-world data**, **API integration**, and **dat
    - **Count of requests by type ('sr_type')**
    - **Daily trends of requests**
    - **5 Latest Requests**
+
+
+---
+
+## **Requirements**
+- Python 3.x
+- **'requests'** library
+- **'pandas'** library
+
+## **References**
+- Chicago Open Data Portal - 311 Service Requests:
+- 
